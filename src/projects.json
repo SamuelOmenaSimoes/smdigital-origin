@@ -1,0 +1,82 @@
+[
+  {
+    "id": "viva",
+    "title": "Viva Clínica",
+    "category": "Site institucional",
+    "sector": "Saúde",
+    "preview": "clinic",
+    "url": "",
+    "image": "",
+    "desc": "Estudo de uma clínica: cores acolhedoras, especialidades em destaque e um caminho direto para agendar uma consulta."
+  },
+  {
+    "id": "forma",
+    "title": "Forma Arquitetura",
+    "category": "Site institucional",
+    "sector": "Arquitetura",
+    "preview": "architecture",
+    "url": "",
+    "image": "",
+    "desc": "Estudo para um escritório de arquitetura: fotografia ampla, tipografia editorial e navegação centrada nos projetos."
+  },
+  {
+    "id": "casa",
+    "title": "Casa di Terra",
+    "category": "Site institucional",
+    "sector": "Gastronomia",
+    "preview": "restaurant",
+    "url": "",
+    "image": "",
+    "desc": "Estudo para restaurante: identidade em vinho e creme, fotografia gastronômica, cardápio e reservas."
+  },
+  {
+    "id": "oficio",
+    "title": "Ofício — Escola Criativa",
+    "category": "Landing page",
+    "sector": "Educação",
+    "preview": "education",
+    "url": "",
+    "image": "",
+    "desc": "Estudo para curso criativo: composição assimétrica, contraste de cores e programa organizado para facilitar a decisão de inscrição."
+  },
+  {
+    "id": "almeida",
+    "title": "Almeida Advocacia",
+    "category": "Site institucional",
+    "sector": "Jurídico",
+    "preview": "law",
+    "url": "",
+    "image": "",
+    "desc": "Direção sóbria em marfim e café, áreas de atuação organizadas e contato discreto."
+  },
+  {
+    "id": "pulso",
+    "title": "Pulso Studio",
+    "category": "Landing page",
+    "sector": "Fitness",
+    "preview": "fitness",
+    "url": "",
+    "image": "",
+    "desc": "Identidade esportiva, contraste forte, modalidades e grade de aulas."
+  },
+  {
+    "id": "brisa",
+    "title": "Brisa — Casa de Estar",
+    "category": "Site institucional",
+    "sector": "Hospedagem",
+    "preview": "hotel",
+    "url": "",
+    "image": "",
+    "desc": "Apresentação de pousada com fotografia ampla, acomodações e convite à reserva."
+  },
+  {
+    "id": "amigo",
+    "title": "Amigo — Clínica Veterinária",
+    "category": "Site institucional",
+    "sector": "Veterinária",
+    "preview": "vet",
+    "url": "",
+    "image": "",
+    "desc": "Visual acolhedor, serviços veterinários e orientação para o primeiro atendimento."
+  }
+]
